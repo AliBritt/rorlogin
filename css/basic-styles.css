@@ -1,0 +1,37 @@
+body{
+	background-color:#F0F0F0;
+}
+
+.form-container {
+	background-color:#F8F8F8;
+	margin: auto;
+	width: 200px;
+	border: 2px solid #ffc2b3;
+	border-radius: 5px;
+	padding: 20px;
+	text-align: center;
+	font-family:Verdana, Geneva, sans-serif;	
+}
+	
+.user-form{	
+}
+
+.user-form-heading{
+	font-size: 1.8em;
+}
+
+.input-box{
+	margin-bottom:10px;
+	height: 25px;
+	width: 200px;
+}
+
+a{
+    text-decoration: none;
+    color: #cc2900;
+    font-size: 0.9em;
+}
+
+.form-submit-button{
+	font-size: 1.5em;
+}
